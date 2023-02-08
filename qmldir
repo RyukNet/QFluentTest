@@ -1,0 +1,3 @@
+module QFluent
+singleton Style 1.0 Style/Style.qml
+Button 1.0 Controls/Button.qml

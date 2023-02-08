@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/fluent">
+        <file>Style/Style.qml</file>
+        <file>Controls/Button.qml</file>
+    </qresource>
+</RCC>
